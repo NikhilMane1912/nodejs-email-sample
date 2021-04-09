@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_email_sender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Naveen Hegde",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.2",
+    "express": "^4.17.1"
+  }
+}
